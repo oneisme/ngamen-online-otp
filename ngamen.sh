@@ -7,7 +7,7 @@ clear
 
 3
 
-toilet -f ivrit "NGAMEN ONLINE"
+toilet -f ivrit --gay "NGAMEN ONLINE"
 
 
 sleep 1
@@ -24,13 +24,11 @@ sleep 1
 echo "\033[33;1m Author: Mr.godeyes"
 
 
+
 sleep 1
 
 
-echo "\033[32;1m ★nomor token angkasa gue :+6177131377
-
-
-echo "\033[36;1m ><><><><><><><><> ✓✓ Ngamen dimana guys :"
+echo "\033[36;1m Ngamen dimana guys :"
 
 
 
