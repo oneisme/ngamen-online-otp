@@ -8,13 +8,41 @@ toilet -f ivrit --gay"Ngamen Online"
 Class Banner :
      Logo = Color.G + """
      
-     
-     <><><><><><><><>.    <><><><><><>><<>><
-     /\\\ ^✓\. \ \\
-     \\\\\/////.\\ \
-     {}{}{}{}.   [}[}{}.  | |||      {{}{}[}[[
-     @@@@@@@     @@@@@@@@    @@@@@@@@
-       ®®®®®®®®®®. ®®®®®®™™®®™®®®®®.  ®®®®®®®®®®®®®
+                        `                                          
+                                                  `.:-  +yo`                                        
+                                                 .oohs/.hyy-                                        
+                                                 omhhssyy++.                                        
+                                                 omhyss+o+/                                         
+                                                 smdhdy+ss`                                         
+                                                 -mdyo++s:                                          
+                                        ..: -` `.+mdhsoo:`                                          
+                                        .:+:syyyhmmmdyso` `                                         
+                                     :::osyhdhhhyyhhdhyy+-:`                                        
+                                     -osyyhdyddys/++ohhyyyy/`                                       
+                                    /hyhmhhmhhdyo+//+sh+/++y+.                                      
+                                   :hhydhhmNmmmhsso/+ydo///shs.                                     
+                               `   yhyyhymmmmdddhhsoohmyso+sdy/                                     
+                              `:`.shyhyo.smmddydhdddddddhyydyhs.                                    
+                               :+hmyys-   ommdhydmdhysydydyddsy+                                    
+                               /hddsy`     ymdddddhdsoydhh+/mdys:                                   
+                               hyhdy/      `+mmmhhddyssssh: /ddds:`                                 
+                               dshys.        ydmdydhso++so` `hddhso`                                
+                              `myss-         /mmmdhhsssyyo   .ohhhs+                                
+                              :mys:          sddhdhdhhsoss`    /hhdy-                               
+                              /mss          .dydddhdysooyy+     .shho                               
+                              ymy/           yhhdmdhyyyhdhy.      +hd:                              
+                              dmdo          +mdhdhdhssyhhhyo`      shs`                             
+                             .mmds.        `mhddddyyhdhsyhyy`    `+hhy-                             
+                             /mmdhy`       :dhhmddyshddhyhhs`    :dyhs.                             
+                              :yddo        .dhhhmdshhhmdyhys.     +/+-                              
+                               `o-         `mdhohdshymmmhyyh/   
+                               
+    
+print banner.logo
+    
+   
+   
+
 echo "\033[31;1m Mau ngamen dimana guys"
 
 echo "\033[33;1m Author: Mr.godeyes"
