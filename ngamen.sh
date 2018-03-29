@@ -7,7 +7,7 @@ clear
 
 
 
-toilet -f ivrit --gay "NGAMEN ONLINE"
+toilet -f ivrit --cowsay "NGAMEN ONLINE"
 
 
 sleep 1
