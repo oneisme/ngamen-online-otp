@@ -7,14 +7,14 @@ clear
 
 3
 
-toilet -f ivrit --gay "Ngamen Online"
+toilet -f ivrit "NGAMEN ONLINE"
 
 
 sleep 1
 
 
 
-echo "\033[31;1m Mau ngamen dimana guys"
+echo "\033[31;1m Loe Mau Ngamen dimana"
 
 
 sleep 1
