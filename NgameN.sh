@@ -8,7 +8,7 @@ clear
 
 
 
-toilet -f ivrit --#FF66CC "Ngamen Online"
+toilet -f ivrit --gay "Ngamen Online"
 
 4
 
@@ -17,7 +17,7 @@ sleep 1
 
 5
 
-echo "\033[31;1m Mau ngamen dimana guys"
+           echo "\033[31;1m Mau ngamen dimana guys"
 
 6
 
@@ -25,7 +25,7 @@ sleep 1
 
 7
 
-echo "\033[33;1m Author: Mr.godeyes"
+           echo "\033[33;1m Author: Mr.godeyes"
 
 8
 
@@ -33,7 +33,7 @@ sleep 1
 
 9
 
-echo "\033[32;1m ★contack: +6178165732"
+           echo "\033[32;1m ★contack: +6178165732"
 
 10
 
@@ -41,7 +41,7 @@ sleep 1
 
 11
 
-echo "\033[34;1m ★wongNdesoEndonesa"
+           echo "\033[34;1m ★wongNdesoEndonesa"
 
 12
 
@@ -49,35 +49,35 @@ sleep 1
 
 13
 
-echo "\033[36;1m Ngamen dimana guys :"
+           echo "\033[36;1m Ngamen dimana guys :"
 
 14
 
-echo "1. Paypal"
+         echo "1. Paypal"
 
 15
 
-echo "2. Bank Mandiri"
+     echo "2. Bank Mandiri"
 
 16
 
-echo "3. BukaLapak"
+                 echo "3. BukaLapak"
 
 17
 
-echo "4. Bitcoin"
+     echo "4. Bitcoin"
 
 18
 
-echo "5. Cash Rupiah"
+                 echo "5. Cash Rupiah"
 
 19
 
-echo "6. Rupiah Iklan Otomatis"
+     echo "6. Rupiah Iklan Otomatis"
 
 20
 
-echo "0. Keluar"
+                                 echo "0. Keluar"
 
 21
 
