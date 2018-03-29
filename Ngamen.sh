@@ -394,37 +394,15 @@ fi
 
 104
 
-if
 
-105
 
-[ $mrrm = 0 ] || [ $mrrm = 0 ]
 
-106
 
-then
 
-107
 
-echo "\033[31;1m Keluar"
 
-108
 
-sleep 1
 
-109
-
-echo "\033[32;1m Sampai ngamen lagi :)"
-
-110
-
-sleep 1
-
-111
-
-fi
-
-112
 
 
 
