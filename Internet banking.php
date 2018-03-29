@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- *   Ngamen.php
+ *   demo.php
  *
  * @author
  *   IjorTengab
