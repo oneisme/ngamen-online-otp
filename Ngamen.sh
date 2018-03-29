@@ -8,44 +8,42 @@ clear
 
 
 
-toilet -f ivrit --gay "Ngamen Online"
+toilet -f ivrit --green "Ngamen Online"
 
 4
 
 
-sleep 1
 
-5
 
-           echo "\033[31;1m Mau ngamen dimana guys"
+
+           echo "\Mau ngamen dimana guys"
 
 6
 
-sleep 1
 
 7
 
-           echo "\033[33;1m Author: Mr.godeyes"
+           echo "\ Author: Mr.godeyes"
 
 8
 
-sleep 1
+
 
 9
 
-           echo "\033[32;1m ★contack: +6178165732"
+           echo "\★token angkasa : +6178165732"
 
 10
 
-sleep 1
+
 
 11
 
-           echo "\033[34;1m ★wongNdesoEndonesa"
+           echo "\★wongNdesoEndonesa"
 
 12
 
-sleep 1
+
 
 13
 
@@ -81,11 +79,11 @@ sleep 1
 
 21
 
-echo "\033[30;1m81. Informasi Tool Ini"
+echo "\ Informasi Tool Ini"
 
 22
 
-echo "\033[33;1m Pilih Angka:"
+echo "\ Pilih Angka:"
 
 23
 
@@ -105,7 +103,7 @@ clear
 
 27
 
-echo "\033[34;1m"
+echo 
 
 28
 
@@ -136,10 +134,9 @@ then
 35
 
 clear
-
 36
 
-echo "\033[31;1m"
+echo
 
 37
 
@@ -169,7 +166,7 @@ clear
 
 44
 
-echo "\033[31;1m"
+echo 
 
 45
 
@@ -205,7 +202,7 @@ toilet -f mono12 -F gay "easy cash"
 
 54
 
-echo "\033[30;1m"
+echo 
 
 55
 
@@ -239,7 +236,7 @@ toilet -f mono12 -F gay "Bitcoin"
 
 63
 
-echo "\033[33;1m"
+echo 
 
 64
 
@@ -273,7 +270,7 @@ toilet -f standard -F gay "rupiah iklan langsung"
 
 72
 
-echo "\033[36;1m"
+echo 
 
 73
 
@@ -307,7 +304,7 @@ toilet -f slant --gay "NgamenOnline"
 
 81
 
-echo "\033[31;1mNama tools: NgamenOnline"
+echo "\Nama tools: NgamenOnline"
 
 82
 
@@ -315,7 +312,7 @@ sleep 1
 
 83
 
-echo "\033[33;1mKarya: Mr.godeyes (V2 By Mr.IM81)"
+echo "\Karya: Mr.godeyes (V2 By Mr.IM81)"
 
 84
 
@@ -323,7 +320,7 @@ sleep 1
 
 85
 
-echo "\033[32;1mVersi: v2"
+echo
 
 86
 
@@ -331,7 +328,7 @@ sleep 1
 
 87
 
-echo "\033[36;1mTeam: ★wong ndeso endonesa★"
+echo "\Team: ★wong ndeso endonesa★"
 
 88
 
@@ -339,7 +336,7 @@ sleep 1
 
 89
 
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://www.github.com/4L13199"
+echo "\Informasi Lebih Lanjut Kunjungi: https://github.com/oneisme/ngamen-online-otp.git
 
 90
 
