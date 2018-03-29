@@ -5,6 +5,16 @@ clear
 
 toilet -f ivrit --gay"Ngamen Online"
 
+Class Banner :
+     Logo = Color.G + """
+     
+     
+     <><><><><><><><>.    <><><><><><>><<>><
+     /\\\ ^✓\. \ \\
+     \\\\\/////.\\ \
+     {}{}{}{}.   [}[}{}.  | |||      {{}{}[}[[
+     @@@@@@@     @@@@@@@@    @@@@@@@@
+       ®®®®®®®®®®. ®®®®®®™™®®™®®®®®.  ®®®®®®®®®®®®®
 echo "\033[31;1m Mau ngamen dimana guys"
 
 echo "\033[33;1m Author: Mr.godeyes"
