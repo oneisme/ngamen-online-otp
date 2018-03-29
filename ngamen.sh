@@ -27,19 +27,10 @@ echo "\033[33;1m Author: Mr.godeyes"
 sleep 1
 
 
-echo "\033[32;1m ★contack: +6178165732"
+echo "\033[32;1m ★nomor token angkasa gue :+6177131377
 
 
-sleep 1
-
-
-echo "\033[34;1m ★wongNdesoEndonesa"
-
-
-sleep 1
-
-
-echo "\033[36;1m Ngamen dimana guys :"
+echo "\033[36;1m ><><><><><><><><> ✓✓ Ngamen dimana guys :"
 
 
 
@@ -61,7 +52,7 @@ echo "5. Cash Rupiah"
 echo "6. Rupiah Iklan Otomatis"
 
 
-echo "0. Keluar"
+echo "0. Keluar
 
 
 echo "\033[30;1m81. Informasi Tool Ini"
