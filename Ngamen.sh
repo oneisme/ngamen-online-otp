@@ -8,7 +8,7 @@ clear
 
 
 
-toilet -f ivrit --green "Ngamen Online"
+toilet -f ivrit "Ngamen Online"
 
 4
 
